@@ -1,4 +1,4 @@
-# 🧮 ** Média Especial Sem Extremos** ➗
+# 🧮 Média Especial Sem Extremos ➗
 
 Este código em Python permite que você calcule a média dos números em uma lista, excluindo o maior e o menor valor. É como ter um assistente matemático para médias personalizadas!
 
